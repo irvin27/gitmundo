@@ -1,7 +1,9 @@
-
-
-<?php 
-//redireccionar a la vista de login
-
-header('location: vistas/asistencia.php');  
- ?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Git</title>
+</head>
+<body>
+	<font>Hola Irvin Muñoz</font>
+</body>
+</html>
